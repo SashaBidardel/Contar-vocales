@@ -1,0 +1,9 @@
+.seccion,h1,.resultado {
+    display:flex;
+    justify-content: center;
+    
+    
+}
+.boton {
+    margin-right: 2%;
+}
